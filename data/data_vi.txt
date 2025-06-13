@@ -1,0 +1,20 @@
+Bối cảnh
+- Tổ chức các cuộc họp hàng tuần của dự án SuperTrans.
+- Trong các cuộc họp hàng tuần, xác nhận tiến độ công việc, các vấn đề đang gặp phải và các giải pháp cho những vấn đề đó.
+- Trong dự án, đối với các công việc thực hiện trong tuần từ ngày 12/4 đến ngày 19/4, sẽ tổng hợp báo cáo vào ngày 19/4 (thứ Hai) và báo cáo cho khách hàng tại cuộc họp hàng tuần vào ngày 20/4 (thứ Ba).
+
+ 
+Saito: Vì mọi người đã có mặt đầy đủ, tôi xin phép bắt đầu cuộc họp định kỳ ngày hôm nay.Rất mong nhận được sự hợp tác từ mọi người.
+An: Rất mong nhận được sự hợp tác từ mọi người. Trước hết, tôi xin báo cáo về tiến độ. Xin vui lòng xem báo cáo tuần tôi đã gửi ngày hôm qua. Tuần trước, chúng tôi đã thực hiện các task từ 1 đến 10. Vào thứ Sáu tuần trước (ngày 16), chúng tôi đã bàn giao tài liệu thiết kế chi tiết. Tất cả các chỉ dẫn từ phía quý công ty đã được phản ánh đầy đủ, và chúng tôi đã kiểm tra lần cuối trước khi bàn giao. Tuy có hơi phiền nhưng mong quý công ty kiểm tra lại giúp chúng tôi.
+Saito: Vâng, cảm ơn vì đã bàn giao. Chúng tôi sẽ xác nhận phía công ty mình. Khi xong, chúng tôi sẽ thông báo lại.
+An: Rất mong nhận được sự hợp tác. Tiếp theo là các task đang tiến hành. Hiện tại chúng tôi đang đồng thời thực hiện coding và unit test cho chức năng quản lý người dùng và quản lý tài liệu. Tuy nhiên, đối với quản lý tài liệu, hiện đang phát sinh một số chậm trễ, chúng tôi sẽ giải thích rõ hơn khi đến phần thảo luận về issue.
+ 
+Saito: Vâng, cảm ơn anh. Vậy xin hãy báo cáo về các risk và isue.
+An: Vâng, issue là như đã nói trước đó, công việc coding cho task số 6 – quản lý tài liệu – bị chậm 1 ngày.
+Nguyên nhân là do lập trình viên phụ trách bị ốm và nghỉ làm. Biện pháp đối phó là phân công công việc bị chậm này cho một lập trình viên khác, đồng thời team leader sẽ đi làm vào cuối tuần. Báo cáo đến đây là hết.
+Saito: Vâng, cảm ơn anh. Vậy hiện tại có 1 issue về tiến độ. Với biện pháp vừa rồi, việc chậm trễ có chắc chắn được khắc phục không?
+An: Vâng, member dự định sẽ vào support đã từng phụ trách dự án tương tự trước đây, nên chúng tôi cho rằng có thể khắc phục được sự chậm trễ mà không ảnh hưởng đến các bước tiếp theo.
+Saito: Tôi xin xác nhận thêm một điểm nữa: phần coding cho task số 6 và số 7 – coding và UT, phần UT vẫn chưa bắt đầu – vậy việc coding thì sao? Ngày bắt đầu thực tế chưa được ghi nhận. Ngoài ra, nếu UT cũng chưa thực hiện thì liệu có bị trễ không?
+An: Xin lỗi. Coding thì đã tiến hành một phần, tuy nhiên như đã nói ở trên, đang bị chậm 1 ngày. UT thì chưa bắt đầu nên cũng bị chậm 1 ngày. Lý do là cùng một người phụ trách. Chúng tôi dự kiến sẽ giải quyết việc chậm trễ này bằng biện pháp đã đề cập trước đó.
+Saito: Vậy à, tôi hiểu rồi. Từ nay về sau, hãy chắc chắn rằng các vấn đề như chậm trễ cần được ghi rõ trong báo cáo tuần. Nếu cứ triển khai mà không ai nhận ra thì sẽ trở thành vấn đề nghiêm trọng sau này, cả hai bên sẽ gặp khó khăn, nên mong các bạn lưu ý.
+An: Chúng tôi rất xin lỗi vì sự thiếu sót này. Từ giờ chúng tôi sẽ chú ý nhiều hơn. Nếu có vấn đề xảy ra, chúng tôi sẽ ghi rõ nội dung và biện pháp xử lý rồi báo cáo.
